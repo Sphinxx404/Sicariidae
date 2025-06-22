@@ -2,7 +2,7 @@
 Advanced Web Scraper
 
 
-Installation:
+Installation:\n
 pkg update -y && pkg upgrade -y && pkg install python3
 
 git clone 
