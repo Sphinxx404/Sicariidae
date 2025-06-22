@@ -1,0 +1,6 @@
+colorama
+pyfiglet
+asyncio
+aiohttp
+bs4
+urllib
